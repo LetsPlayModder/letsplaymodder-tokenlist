@@ -1,0 +1,16 @@
+{
+  "name": "LetsPlayModder Token List",
+  "logoURI": "https://letsplaymodder.com/2025/06/17/lpm-logo-png/",
+  "keywords": ["letsplaymodder", "gaming", "LPM Angie"],
+  "timestamp": "2025-06-17T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x99DB2cB7aa495317a1F8f5B581356Db19Da29d6F",
+      "name": "LetsPlayModder",
+      "symbol": "LPM Angie",
+      "decimals": 18,
+      "logoURI": "https://letsplaymodder.com/2025/06/17/lpm-logo-png/"
+    }
+  ]
+}
